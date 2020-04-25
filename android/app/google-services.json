@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "144832231492",
+    "firebase_url": "https://sisperience125.firebaseio.com",
+    "project_id": "sisperience125",
+    "storage_bucket": "sisperience125.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144832231492:android:299c1599aab6b966386411",
+        "android_client_info": {
+          "package_name": "com.sisperience"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144832231492-jq37jr1hpu5vjsir8jo02s9cb7lm5qe1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sisperience",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "144832231492-65es1pghh0o77osgv3ilkvuvvqbls1mg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2DXc_zUoBnJRunlhLFynUtMEG_5ZU3nA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144832231492-65es1pghh0o77osgv3ilkvuvvqbls1mg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
